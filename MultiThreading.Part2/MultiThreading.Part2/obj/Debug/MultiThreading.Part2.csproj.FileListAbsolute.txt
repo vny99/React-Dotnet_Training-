@@ -1,0 +1,8 @@
+C:\Users\vtata\Documents\.net codes\Practice\MultiThreading\MultiThreading.Part2\MultiThreading.Part2\bin\Debug\MultiThreading.Part2.exe.config
+C:\Users\vtata\Documents\.net codes\Practice\MultiThreading\MultiThreading.Part2\MultiThreading.Part2\bin\Debug\MultiThreading.Part2.exe
+C:\Users\vtata\Documents\.net codes\Practice\MultiThreading\MultiThreading.Part2\MultiThreading.Part2\bin\Debug\MultiThreading.Part2.pdb
+C:\Users\vtata\Documents\.net codes\Practice\MultiThreading\MultiThreading.Part2\MultiThreading.Part2\obj\Debug\MultiThreading.Part2.csproj.AssemblyReference.cache
+C:\Users\vtata\Documents\.net codes\Practice\MultiThreading\MultiThreading.Part2\MultiThreading.Part2\obj\Debug\MultiThreading.Part2.csproj.SuggestedBindingRedirects.cache
+C:\Users\vtata\Documents\.net codes\Practice\MultiThreading\MultiThreading.Part2\MultiThreading.Part2\obj\Debug\MultiThreading.Part2.csproj.CoreCompileInputs.cache
+C:\Users\vtata\Documents\.net codes\Practice\MultiThreading\MultiThreading.Part2\MultiThreading.Part2\obj\Debug\MultiThreading.Part2.exe
+C:\Users\vtata\Documents\.net codes\Practice\MultiThreading\MultiThreading.Part2\MultiThreading.Part2\obj\Debug\MultiThreading.Part2.pdb
